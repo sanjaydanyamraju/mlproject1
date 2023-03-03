@@ -16,3 +16,7 @@ conda activate env/
 
 #### - p is used so that venv will be created in the current working directory. Recommened!
 #### use conda activate venv/ to activate. if we use conda activate env it will throw an error
+
+```
+pip install -r reuirements.txt
+```
