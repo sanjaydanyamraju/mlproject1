@@ -14,9 +14,26 @@ conda create -p venv python=3.7 -y
 conda activate env/
 ```
 
-#### - p is used so that venv will be created in the current working directory. Recommened!
-#### use conda activate venv/ to activate. if we use conda activate env it will throw an error
+* -p is used so that venv will be created in the current working directory. Recommened!
+* use conda activate venv/ to activate. if we use conda activate env it will throw an error
 
 ```
 pip install Flask
+```
+
+> To add git files
+```
+git add .
+```
+> To check git status
+```
+git status
+```
+> To check versions
+```
+git log
+```
+> To commit
+```
+git commit -m "message"
 ```
