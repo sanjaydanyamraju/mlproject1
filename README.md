@@ -18,5 +18,5 @@ conda activate env/
 #### use conda activate venv/ to activate. if we use conda activate env it will throw an error
 
 ```
-pip install -r reuirements.txt
+pip install Flask
 ```
