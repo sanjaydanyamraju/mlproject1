@@ -47,8 +47,8 @@ git remote -v
 > Note: Use integration branch for staging the changes
 
 To setup CI/CD pipelines in HEROKU we need
-1. HEROKU EMAIL - danyamraju.sanjay@yahoo.com
-2. API KEY - 39bb4d00-0738-4621-9e84-1469fbf0a94b
+1. HEROKU EMAIL - <>
+2. API KEY - <>
 3. HEROKU APP NAME - mlproject1
  
 
