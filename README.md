@@ -37,3 +37,11 @@ git log
 ```
 git commit -m "message"
 ```
+> To push changes form local to remote
+```
+git push origin main
+```
+> To check remote URL
+```
+git remote -v
+```
